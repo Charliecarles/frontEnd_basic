@@ -1,0 +1,42 @@
+
+h1 p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table, tr, th, td{
+    font-size: 8pt;
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    padding: 8px;
+    }
+
+tr th{
+    text-align: right;
+    background-color: green;
+    color: white;
+}
+
+tr td{
+    text-align: right;
+}
+
+tr:nth-child(even){
+    background-color: rgb(240, 240, 240);
+}
+
+#espana{
+    font-weight: bold;
+}
+
+td:first-child{
+    text-align: left;
+}
+
+th:first-child{
+    text-align: left;
+}

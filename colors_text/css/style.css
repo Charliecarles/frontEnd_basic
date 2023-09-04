@@ -1,0 +1,72 @@
+#titulo{
+    color: darkturquoise;
+}
+
+.destacado{
+    color: darkorange;
+}
+
+#subtitulo{
+    color: blue;
+}
+
+p strong{
+    color: red;
+}
+
+p a em{
+    color: blue;;
+}
+
+p a {
+    color: green;
+}
+
+/* alternativa
+
+#adicional p a{
+    color:green;
+}
+*/
+
+.especial{
+    color: purple;
+}
+
+th.especial{
+    color: darkorange;
+}
+
+table caption{
+    color: blue;
+}
+
+tfoot tr th{
+    color: red;
+}
+
+tbody tr td{
+    color: green;
+}
+
+tr td strong{
+    color: darkorange;
+}
+
+#titulofila2{
+    color:red;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+
+#adicional{
+color: rgb(197, 197, 9)
+}
+
+#especial{
+    color: rgba(255, 131, 234, 0.842);
+}
